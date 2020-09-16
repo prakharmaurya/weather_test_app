@@ -1,0 +1,16 @@
+div.show {
+  height: 500px;
+  display: flex;
+  align-items: center;
+  width: auto;
+  background-color: #e97171;
+}
+p {
+  text-align: center;
+  color: #ff0;
+  margin: auto;
+  width: 50%;
+}
+i {
+  color: #00f;
+}
